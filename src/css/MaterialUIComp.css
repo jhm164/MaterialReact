@@ -1,0 +1,26 @@
+.firstSection{
+    height: 100vh;
+    background-image: url('../../assets/sabrinna-ringquist-9xJ5s00mCzY-unsplash.jpg');
+    background-size: cover;
+    align-items: center;
+}
+
+.firstSection h1{
+    /* display: flex; */
+    justify-content: center;
+    align-self: center;
+    /* margin-top: 40%; */
+    font-size:50px;
+    font-family: 'roboto';
+    text-transform: uppercase;
+    letter-spacing: 10px;
+   position: absolute;
+   top: 32%;
+   margin: 0px auto;
+   /* left: 30%; */
+
+display: flex;
+justify-content: center;
+   position: absolute;
+   width: 100%;
+}
